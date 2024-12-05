@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\test\ProductWebService\publish\ProductWebService.exe
+C:\Users\HP\Documents\test\ProductWebService\publish\publish\web.config
+C:\Users\HP\Documents\test\ProductWebService\publish\appsettings.Development.json
+C:\Users\HP\Documents\test\ProductWebService\publish\appsettings.json
+C:\Users\HP\Documents\test\ProductWebService\publish\publish\appsettings.Development.json
+C:\Users\HP\Documents\test\ProductWebService\publish\publish\appsettings.json
+C:\Users\HP\Documents\test\ProductWebService\publish\publish\ProductWebService.deps.json
+C:\Users\HP\Documents\test\ProductWebService\publish\publish\ProductWebService.runtimeconfig.json
+C:\Users\HP\Documents\test\ProductWebService\publish\publish\ProductWebService.staticwebassets.endpoints.json
+C:\Users\HP\Documents\test\ProductWebService\publish\ProductWebService.dll
+C:\Users\HP\Documents\test\ProductWebService\publish\ProductWebService.deps.json
+C:\Users\HP\Documents\test\ProductWebService\publish\ProductWebService.runtimeconfig.json
+C:\Users\HP\Documents\test\ProductWebService\publish\ProductWebService.pdb
+C:\Users\HP\Documents\test\ProductWebService\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\HP\Documents\test\ProductWebService\publish\Microsoft.OpenApi.dll
